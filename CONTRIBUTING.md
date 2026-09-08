@@ -10,7 +10,7 @@ Thanks for looking. OSWatcher is a multi-repository project, so the first questi
 | A new analysis or capture plugin | [oswatcher-plugins](https://github.com/OSWatcher/oswatcher-plugins) |
 | Neo4j-side query procedures | [oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures) |
 | Image building, update chains, capture pipeline | [osw-builder](https://github.com/OSWatcher/osw-builder) |
-| Compose stack, deployment, backup scripts | [oswatcher-deploy](https://github.com/OSWatcher/oswatcher-deploy) |
+| Compose stack, deployment, backup scripts | [oswatcher](https://github.com/OSWatcher/oswatcher) |
 | API schema or resolvers | [graphql-api](https://github.com/OSWatcher/graphql-api) |
 | Web interface | [frontend](https://github.com/OSWatcher/frontend) |
 | Anything cross-cutting, or you are not sure | [oswatcher](https://github.com/OSWatcher/oswatcher) |
