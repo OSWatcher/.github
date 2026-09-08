@@ -12,7 +12,7 @@ That repository explains the architecture and maps every other repository in rea
 
 | | |
 |---|---|
-| **Run the whole stack** | [oswatcher-deploy](https://github.com/OSWatcher/oswatcher-deploy) — Docker Compose, six services |
+| **Run the whole stack** | [oswatcher](https://github.com/OSWatcher/oswatcher) — Docker Compose, six services |
 | **Understand the core idea** | [neogit](https://github.com/OSWatcher/neogit) — the snapshot and diff engine, `pipx install neogit` |
 | **Capture your own images** | [osw-builder](https://github.com/OSWatcher/osw-builder) — the ISO-to-graph pipeline |
 
